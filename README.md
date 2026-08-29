@@ -20,7 +20,6 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **Programa-Git** | Repositorio de práctica y control de versiones | Git |
 | **Sistema de Compras** | Sistema completo de registro de compras: registro, historial, estadísticas y exportación a Excel | Flask · JavaScript · Firebase/Firestore · openpyxl |
 | **NEXOGEST** | Sistema de gestión documental, indicadores y compromisos multiempresa (proyecto de práctica SENA) | NestJS · React · TypeScript · MySQL |
 | **Bot de Horarios Acordeón** | Chatbot de WhatsApp para consultar horarios de una escuela de acordeón | Node.js · Express · Meta Cloud API |
