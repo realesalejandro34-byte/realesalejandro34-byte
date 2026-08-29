@@ -1,8 +1,8 @@
-<h1 align="center"> Alejandro Reales</h1>
+<h1 align="center">Hola 👋, soy Alejandro Reales</h1>
 <h3 align="center">Desarrollador de Software | Backend & Web</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Backend+Developer;Construyendo+sistemas+de+gesti%C3%B3n+de+datos;Node.js+%7C+Python+%7C+React+%7C+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Backend+Developer;Construyendo+sistemas+de+gesti%C3%B3n+de+datos;JavaScript+%7C+Node.js+%7C+SQL+Server" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,18 +18,17 @@
 
 ### 🛠️ Proyectos destacados
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **Sistema de Compras** | Sistema completo de registro de compras: registro, historial, estadísticas y exportación a Excel | Flask · JavaScript · Firebase/Firestore · openpyxl |
-| **NEXOGEST** | Sistema de gestión documental, indicadores y compromisos multiempresa (proyecto de práctica SENA) | NestJS · React · TypeScript · MySQL |
-| **Bot de Horarios Acordeón** | Chatbot de WhatsApp para consultar horarios de una escuela de acordeón | Node.js · Express · Meta Cloud API |
+| Proyecto | Descripción |
+|
+| **NEXOGEST** | Sistema de gestión documental, indicadores y compromisos multiempresa (proyecto de práctica SENA) |
+| **Bot de Horarios Acordeón** | Chatbot de WhatsApp para consultar horarios de una escuela de acordeón |
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,vite,nestjs,flask,postgres,mysql,firebase,html,css,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,mssql,git,github" />
 </p>
 
 ---
