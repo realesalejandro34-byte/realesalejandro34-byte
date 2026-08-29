@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Alejandro Reales</h1>
+<h1 align="center"> Alejandro Reales</h1>
 <h3 align="center">Desarrollador de Software | Backend & Web</h3>
 
 <p align="center">
